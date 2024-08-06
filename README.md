@@ -15,12 +15,13 @@ Four representative traffic signs (No Overtaking, No Parking, No Pedestrians, an
 
 ### Framework:
 **Robust fine-tuning framework for TSCLIP model.** (a) shows the contrastive language-image training process of TSCLIP with traffic sign prompts (b) shows the Wise-FT scheme for weight ensembling of the CLIP model (c) shows our proposed Adaptive Dynamic Weight Ensembling (ADWE) scheme.
+
 <img src="https://github.com/guoyangzhao/TSCLIP/blob/main/images/framework.png" width="60%" height="auto">
 
 
-## Cross-Regional Traffic Sign (CRTS) Dataset:
+### Cross-Regional Traffic Sign (CRTS) Dataset:
 We will make the dataset public as soon as possible. We have cleaned the data from 10 regions around the world.
 
 
-## Citations:
+### Citations:
 If you find TSCLIP useful in your research or applications, please consider giving us a star 🌟 and citing it.
