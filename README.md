@@ -25,3 +25,15 @@ We will make the dataset public as soon as possible. We have cleaned the data fr
 
 ### Citations:
 If you find TSCLIP useful in your research or applications, please consider giving us a star 🌟 and citing it.
+
+```bibtex
+@misc{zhao2024tscliprobustclipfinetuning,
+      title={TSCLIP: Robust CLIP Fine-Tuning for Worldwide Cross-Regional Traffic Sign Recognition}, 
+      author={Guoyang Zhao and Fulong Ma and Weiqing Qi and Chenguang Zhang and Yuxuan Liu and Ming Liu and Jun Ma},
+      year={2024},
+      eprint={2409.15077},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.15077}, 
+}
+```
