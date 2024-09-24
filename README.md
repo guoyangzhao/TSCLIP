@@ -1,6 +1,6 @@
 # TSCLIP
 ## TSCLIP: Robust CLIP Fine-tuning for Worldwide Cross-Regional Traffic Sign Recognition
-[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/XXX)
+[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2409.15077)
 <br>
 
 ### Motivation:
