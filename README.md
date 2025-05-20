@@ -20,7 +20,10 @@ Four representative traffic signs (No Overtaking, No Parking, No Pedestrians, an
 
 
 ### Cross-Regional Traffic Sign (CRTS) Dataset:
-We will make the dataset public as soon as possible. We have cleaned the data from 10 regions around the world.
+We constructed the CRTS dataset with over 190,000 images, integrating traffic sign from 10 regions. The CRTS standardizes 46 commonly used categories with unified labels for consistent cross-regional recognition.
+The download link for the CRTS dataset is **[HERE](https://drive.google.com/drive/folders/1YKZe9YnWN-sNmsD1EIT5J5dimxPqSwyV?usp=sharing)**.
+
+<img src="https://github.com/guoyangzhao/TSCLIP/blob/main/images/sign_distribution.png" width="80%" height="auto">
 
 
 ### Citations:
