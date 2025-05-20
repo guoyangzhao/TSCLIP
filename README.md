@@ -1,7 +1,11 @@
 # TSCLIP
 ## TSCLIP: Robust CLIP Fine-tuning for Worldwide Cross-Regional Traffic Sign Recognition
 [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2409.15077)
-<br>
+[![Award Finalist](https://img.shields.io/badge/ICRA_2025-Award_Finalist-red)](https://2025.ieee-icra.org/program/awards-and-finalists/)
+<be>
+
+
+🔧 The code is currently being organized and will be released soon. Thanks for your attention!
 
 ### Motivation:
 **Traffic sign cross-regional recognition and results.** (a) introduces the main content of this paper, fine-tuning TSCLIP on specific traffic sign datasets, and then performing recognition on other worldwide regions. (b) shows our TSCLIP model is far superior to the classic model and exceeds the mainstream CLIP fine-tuning scheme.
